@@ -6,6 +6,10 @@ public class MoscowCity {
 		
 		System.out.println("Mother Russia");
 		
+		System.out.println("Moscow never sleep");
+		
+	
+		
 	}
 	
 
